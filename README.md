@@ -3,7 +3,7 @@ Hi there,
 I’m forestry researcher finishing my PhD at University of Alberta (Sep 2022).
 My general interest is to work on sustainability and and resilience project.
  
-I worked big data (global) in R and ArcMap using dendrochronology and Enhanced Vegetation Index (EVI) datasets.
+I worked with big data (global) in R and ArcMap using dendrochronology and Enhanced Vegetation Index (EVI) datasets.
 
 I am considering research and analyst positions in related areas.
 
